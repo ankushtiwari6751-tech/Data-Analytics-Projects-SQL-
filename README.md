@@ -37,7 +37,13 @@ Analyze loan portfolio data to identify **risk categories, KPIs, and financial i
  🚀 How to Use
 1. Import the `Loan` table dataset into your SQL environment.  
 2. Run queries sequentially (Q1–Q80) to explore different aspects of loan portfolio risk.  
-3. Adjust thresholds (loan amount, credit score, overdue limits) to fit other datasets.  
+3. Adjust thresholds (loan amount, credit score, overdue limits) to fit other datasets.
+
+
+  📂 Dataset
+The sample dataset is provided as an SQL script:  
+[loan_portfolio_dataset.sql](datasets/loan_portfolio_dataset.sql)  
+Import this file into MySQL to recreate the Loan table with 20 rows.
 
 ---
 
