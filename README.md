@@ -42,7 +42,7 @@ Analyze loan portfolio data to identify **risk categories, KPIs, and financial i
 
   📂 Dataset
 The sample dataset is provided as an SQL script:  
-[loan_portfolio_dataset.sql](datasets/loan_portfolio_dataset.sql)  
+[loan_portfolio_dataset.sql](loan_portfolio_dataset.sql)  
 Import this file into MySQL to recreate the Loan table with 20 rows.
 
 ---
